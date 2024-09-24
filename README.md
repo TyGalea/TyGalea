@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler Galea
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Software Development at SAIT
+- 🌱 I’m currently a graduate from Software Development at SAIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me galeaty@gmail.com
 - 😄 Pronouns: He/Him
